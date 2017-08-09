@@ -1,2 +1,2 @@
-# StringKata
-The String Calculator Kata
+# Katas
+A collection of Katas in C#
