@@ -50,11 +50,11 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="StringKataTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringKataTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\StringKata\StringKata.csproj">
+    <ProjectReference Include="..\StringKata.csproj">
       <Project>{eadd7ad0-a353-4665-b259-8cd799445614}</Project>
       <Name>StringKata</Name>
     </ProjectReference>
